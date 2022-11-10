@@ -37,4 +37,7 @@ public class MyResource {
 		return var;
 	}
 //Adding comments!!
+
+	/*
+	 * Adding more comments to the class file in master branch  */
 }
