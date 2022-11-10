@@ -37,4 +37,5 @@ public class MyResource {
 		return var;
 	}
 //Adding comments!!
+	/* Adding comments just to experiment GIT */
 }
