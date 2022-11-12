@@ -40,4 +40,7 @@ public class MyResource {
 
 	/*
 	 * Adding more comments to the class file in master branch  */
+	/* Adding comments just to experiment GIT */
+
+	/* Another comment added to the documentation branch*/
 }
